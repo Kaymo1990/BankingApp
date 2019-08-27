@@ -6,7 +6,7 @@ To run tests you can run the command rspec.
 
 ![](demo.gif)
 
-##Approach
+## Approach
 
 The application was created using Ruby and can be run in the command line by opening the file using the ruby keyword followed by the filename 'statement.rb'. The application includes the following features:
 
